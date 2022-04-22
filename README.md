@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm just a student
+
+![](https://komarev.com/ghpvc/?username=JohnjiRomanji&style=for-the-badge)
+
+🔭 I’m currently working on [tinyphone](https://github.com/JohnjiRomanji/tinyphone), check out the [deployment](https://tinyphone.netlify.app)
+
 <!--
 **JohnjiRomanji/JohnjiRomanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
