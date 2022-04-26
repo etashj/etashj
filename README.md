@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm just a student
+Questionable coding, dubious quality, and subpar content. 
 
 ![](https://komarev.com/ghpvc/?username=JohnjiRomanji&style=for-the-badge)
 
