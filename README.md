@@ -2,7 +2,7 @@
 
 I'm just a student
 
-Questionable coding, dubious quality, and subpar content. 
+Questionable coding with dubious quality. 
 
 ![](https://komarev.com/ghpvc/?username=JohnjiRomanji&style=for-the-badge)
 
