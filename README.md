@@ -2,7 +2,7 @@
 
 I'm just a student
 
-Questionable coding with dubious quality. 
+Questionable code with dubious quality. 
 
 ![](https://komarev.com/ghpvc/?username=JohnjiRomanji&style=for-the-badge)
 
