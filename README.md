@@ -2,8 +2,6 @@
 
 I'm just a student
 
-Questionable code with dubious quality. 
-
 ![](https://komarev.com/ghpvc/?username=JohnjiRomanji&style=for-the-badge)
 
 🔭 I’m currently working on [tinyphone](https://github.com/JohnjiRomanji/tinyphone), check out the [deployment](https://www.tinyphone.tk)
