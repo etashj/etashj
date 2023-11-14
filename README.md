@@ -4,9 +4,10 @@ I'm just a student
 
 ![](https://komarev.com/ghpvc/?username=JohnjiRomanji&style=for-the-badge)
 
-🔭 I’m currently working on [Cardify](https://github.com/JohnjiRomanji/cardify), check out the [deployment](https://card-ify.netlify.app/)
-
-🌱 I’m currently learning Java
+<!--
+🔭 I’m currently working on [](https://github.com/JohnjiRomanji/cardify), check out the [deployment](https://card-ify.netlify.app/)
+-->
+🌱 I’m currently learning PyTorch, Java
 
 <!--
 **JohnjiRomanji/JohnjiRomanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
