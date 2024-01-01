@@ -7,7 +7,7 @@ I'm just a student
 <!--
 🔭 I’m currently working on [](https://github.com/JohnjiRomanji/cardify), check out the [deployment](https://card-ify.netlify.app/)
 -->
-🌱 I’m currently learning PyTorch, Java
+🌱 I’m currently learning ML, PyTorch, Java
 
 <!--
 **JohnjiRomanji/JohnjiRomanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
