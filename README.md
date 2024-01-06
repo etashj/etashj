@@ -2,9 +2,9 @@
 
 I'm just a student
 
-🌱 I’m currently learning PyTorch, Java, and Go
-🔭 I’m currently working on a science fair project, check out the [repository](https://github.com/etashj/Exploring-and-Applying-Audio-Based-Sentiment-Analysis)
-⚡ Also working on a [Myrient CLI interface using Go](https://github.com/etashj/myrient-cli)
+ - 🌱 I’m currently learning PyTorch, Java, and Go
+ - 🔭 I’m currently working on a science fair project, check out the [repository](https://github.com/etashj/Exploring-and-Applying-Audio-Based-Sentiment-Analysis)
+ - ⚡ Also working on a [Myrient CLI interface using Go](https://github.com/etashj/myrient-cli)
 
 <!--
 **JohnjiRomanji/JohnjiRomanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
