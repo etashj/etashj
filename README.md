@@ -3,8 +3,8 @@
 I'm just a student
 
  - 🌱 I’m thinking about learning C++, Typescript, Node
- - 👯 I'm experienced with Python, ML, Torch, Java, HTML/CSS/JS, and DSA
- - 🔭 I’ve been working on a science fair project, check out the [repository](https://github.com/etashj/Exploring-and-Applying-Audio-Based-Sentiment-Analysis)
+ - 👯 I have experience with Python, ML, Torch, Java, HTML/CSS/JS, and DSA
+ - 🔭 I’ve been working on a science fair project
 
 <!--
 **JohnjiRomanji/JohnjiRomanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
