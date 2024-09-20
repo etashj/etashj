@@ -4,7 +4,7 @@ I'm just a student
 
  - 🌱 I’m thinking about learning C++, Typescript, Node
  - 👯 I have experience with Python, ML, Torch, Java, HTML/CSS/JS, and DSA
- - 🔭 I’ve been working on a science fair project
+ - 🔭 I’ve been working on a portfolio site, check it out! https://etashj.github.io/
 
 <!--
 **JohnjiRomanji/JohnjiRomanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
