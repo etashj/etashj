@@ -2,9 +2,9 @@
 
 I'm just a student
 
- - 🌱 I’m thinking about learning C++, Typescript, Node
+ - 🌱 I’m currely learning React, Typescript, and Tailwind CSS
  - 👯 I have experience with Python, ML, Torch, Java, HTML/CSS/JS, and DSA
- - 🔭 I’ve been working on a portfolio site, check it out! https://etashj.github.io/
+ - 🔭 I’ve been working on a site, check it out! [https://Ani-Match.netlify.app/](https://Ani-Match.netlify.app/) or the [repo](https://github.com/etashj/animatch)
 
 <!--
 **JohnjiRomanji/JohnjiRomanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
