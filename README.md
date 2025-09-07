@@ -2,7 +2,7 @@
 
 I'm just a student
 
- - 🌱 I’m currely learning React, Typescript, and Tailwind CSS
+ - 🌱 I’m currely learning Rust
  - 👯 I have experience with Python, ML, Torch, Java, HTML/CSS/JS, and DSA
  - 🔭 I’ve been working on a site, check it out! [https://Ani-Match.netlify.app/](https://Ani-Match.netlify.app/) or the [repo](https://github.com/etashj/animatch)
 
