@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm just a student
+I'm a undergraduate in the school of computer science at CMU. 
+[https://etashj.github.io](https://etashj.github.io)
 
  - 🌱 I’m currely learning Rust
  - 👯 I have experience with Python, ML, Torch, Java, HTML/CSS/JS, and DSA
