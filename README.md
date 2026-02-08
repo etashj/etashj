@@ -5,7 +5,7 @@ I'm a undergraduate in the school of computer science at CMU.
 
  - 🌱 I’m currely learning Rust
  - 👯 I have experience with Python, ML, Torch, Java, HTML/CSS/JS, and DSA
- - 🔭 I’ve been working on a site, check it out! [https://Ani-Match.netlify.app/](https://Ani-Match.netlify.app/) or the [repo](https://github.com/etashj/animatch)
+ - 🔭 I’ve been working on a project with [ScottyLabs](https://github.com/ScottyLabs) to automate the CMU Class of 2030 instagram page. Check out [cmuinsta](https://github.com/ScottyLabs/cmuinsta)
 
 <!--
 **JohnjiRomanji/JohnjiRomanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
