@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-I'm a undergraduate in the school of computer science at CMU. 
-[https://etashj.github.io](https://etashj.github.io)
+I'm an undergraduate at the CMU studying computer science with a concentration in computer systems. 
 
- - 🌱 I’m currely learning Rust
- - 👯 I have experience with Python, ML, Torch, Java, HTML/CSS/JS, and DSA
- - 🔭 I’ve been working on a project with [ScottyLabs](https://github.com/ScottyLabs) to automate the CMU Class of 2030 instagram page. Check out [cmuinsta](https://github.com/ScottyLabs/cmuinsta)
+Check out my personal site: [https://etashj.github.io](https://etashj.github.io)
 
 <!--
 **JohnjiRomanji/JohnjiRomanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
